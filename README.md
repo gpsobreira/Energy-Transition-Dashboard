@@ -1,2 +1,2 @@
 # H2-LCOH-Analysis-Tool
-Develop a Python-based tool to calculate and visualize the Levelized Cost of Hydrogen (LCOH) using parameters like electrolyzer efficiency and electricity prices.
+web-based interactive dashboard using Python (Dash/Plotly) to display hydrogen capacity growth, renewable energy penetration, and emissions reduction progress.
